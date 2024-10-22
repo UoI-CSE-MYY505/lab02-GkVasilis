@@ -12,6 +12,7 @@ prog:
 #-----------------------------
 # Write your code here!
 # Do not remove the prog label or write code above it!
+#   
 #-----------------------------
 done:
     addi a7, zero, 10 
